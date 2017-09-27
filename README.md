@@ -2,7 +2,7 @@
 
 
 #### About
-Horizontal 2D LiDAR MCL is a very simple MCL code to implement in ROS without any dependency. It provides a prebuilt occupancy grid map and [bag file](https://drive.google.com/file/d/0B2AuBcRNemIKYzA5OEdVT2twYVE/view?usp=sharing). It also shows the result of [vidieo](https://drive.google.com/file/d/0B2AuBcRNemIKX3k1TkNwRGdYeWM/view?usp=sharing).
+Horizontal 2D LiDAR MCL is a very simple MCL code to implement in ROS without any dependency. It provides a prebuilt occupancy grid map and [bag file](https://drive.google.com/file/d/0B2AuBcRNemIKYzA5OEdVT2twYVE/view?usp=sharing). It also shows the result [video](https://drive.google.com/file/d/0B2AuBcRNemIKX3k1TkNwRGdYeWM/view?usp=sharing).
 
 #### Reliability
 The code is tested successfully at
